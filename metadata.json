@@ -1,0 +1,6 @@
+{
+  "name": "Electric Velocity",
+  "description": "Premium Electric Vehicle rental and car-sharing onboarding requirements checker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
